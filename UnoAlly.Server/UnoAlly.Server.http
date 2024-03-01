@@ -1,0 +1,6 @@
+@UnoAlly.Server_HostAddress = http://localhost:5073
+
+GET {{UnoAlly.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
